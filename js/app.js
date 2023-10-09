@@ -1,6 +1,3 @@
-// todo project started 27.08.2022 21:56 RIGHT NOW
-// please read the readme and license THANK U
-
 ;(function (context) {
 
     'use strict';
