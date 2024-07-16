@@ -1,2 +1,2 @@
 # todo
- simple todo app written in javascript (vanilla & a tad bit of jquery)
+ beautiful, local todo app in js (vanilla)
